@@ -23,3 +23,9 @@ This repository is dedicated to performing Interactive visual data analytics usi
   declining at an alarming rate, here we have a visualization of their population pattern over the years 
   and effect of various bee killing parameters on their population. We have considered data from the US 
   for our analysis.
+  
+3) **Spacex Launches:**
+* A dashboard that provides visualizations on spacex rocket launches and the successfull landing outcome
+  of it's first-stage rocket. This first-stage rocket is the most expensive part of the rocket and
+  decides the price of the launch, hence it is the deciding factor for spacex in providing far cheaper 
+  rocket launches (~ 62 million USD) compared to other launch providers (~typically 162 million USD).
